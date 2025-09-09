@@ -1,6 +1,6 @@
 <div align="center">
 
-# ✨ Lashiya :) ✨
+# Lashiya :)
 
 <p><em>AIML enthusiast & Full-stack developer passionate about building intelligent and scalable web applications.  
 I love combining AI/ML with modern web technologies to create impactful solutions.</em></p>
@@ -24,13 +24,6 @@ I love combining AI/ML with modern web technologies to create impactful solution
 - Open-source contributions  
 - Cloud & scalable systems  
 - Traveling, sports & creative hobbies</p></div>
-
-## 🏆 GitHub Trophies
-
-<!-- ⚠️ Important: Replace 'tech-savvy1' with your actual GitHub username in the URL below -->
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=tech-savvy1&theme=flat&column=7&margin-w=15&margin-h=15" />
-</p>
 
 ## 🔝 Most Used Languages
 
