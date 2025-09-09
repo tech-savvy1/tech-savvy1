@@ -1,6 +1,6 @@
 <div align="center">
 
-# Lashiya :)
+# HI, I'm Lashiya :)
 
 <p><em>AIML enthusiast & Full-stack developer passionate about building intelligent and scalable web applications.  
 I love combining AI/ML with modern web technologies to create impactful solutions.</em></p>
